@@ -1,5 +1,7 @@
 # deployment-status
 
+Copied from [chrnorm/deployment-status](https://github.com/chrnorm/deployment-status).
+
 A GitHub action to update the status of [Deployments](https://developer.github.com/v3/repos/deployments/) as part of your GitHub CI workflows.
 
 Works great with my other action to create Deployments, [chrnorm/deployment-action](https://github.com/chrnorm/deployment-action).
